@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.TestGreeter
 -------------------------------------------------------------------------------
-<<<<<<< HEAD
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.078 sec
-=======
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.075 sec
->>>>>>> ea3566821a3e05ed6e43077b8409c977a5a67550
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.173 sec
