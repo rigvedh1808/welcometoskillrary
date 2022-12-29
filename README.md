@@ -1,3 +1,1 @@
-# welcometoskillrary
-
-Hi This is from DevOps 107 US Batch
+HI this is srikanth from Inugurthy
